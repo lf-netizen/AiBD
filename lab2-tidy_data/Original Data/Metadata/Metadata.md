@@ -1,0 +1,1 @@
+* iso2 - code representing country name defined in ISO 3166-1 standard
