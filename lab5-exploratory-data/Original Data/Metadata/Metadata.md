@@ -1,10 +1,9 @@
-## tb.csv
-source: https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets/tb.csv
+## 12_SWIETOKRZYSKIE.csv
 
-File contains the number of tuberculosis cases grouped by country, year, age and sex.
+Plik zawiera wyniki oceny odkurzaczy przez kupujących w jednej z sieci sklepów w wojewódźtwie świętokrzyskm.
 
-* iso2 - code representing country name defined in ISO 3166-1 standard
-* year - self-explanatory
-* new_sp - number of registered cases, additionally within given sex and age group, for example
-  - *new_sp_m1524* - males aged 15-24
-  - *new_sp_fu* - females of unknown age
+* Dni od zakupu.
+* Marka - nazwa producenta zakupionego odkurzacza.
+* Wiek kupującego - w latach.
+* Płeć kupującego - K - kobieta; M - mężczyzna; bd. - brak danych.
+* Ocena - liczba w skali 0-5, z krokiem co 0.5.
