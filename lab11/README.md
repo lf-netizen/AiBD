@@ -1,9 +1,12 @@
 1. Ile rekordów znajduje się w tabeli nyc_streets?
-19091
+   
+   19091
 2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
-2102
+    
+    2102
 3. Jaka jest populacja miasta Nowy Jork?
-8175032
+   
+    8175032
 4. Jaka jest populacja Bronxu, Manhattanu i Queens?
 * The Bronx: 1385108
 * Manhattan: 1585873
